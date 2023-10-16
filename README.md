@@ -13,6 +13,7 @@
 - [Limitations](#limitations)
 - [Refferences](#refferences)
 ### Project Overview
+---
 This data analysis project allows to provide insights into the spotify analysis dataset which was sourced from kaggle. It provides analysis on the no of streams, track name, artiste, year etc. By analyzing various aspects of the sales data, we seek to identify trends, make data driven reccomendation and gain deeper understanding of the company's performance. Spotify is a popular music streaming platform that provides a rich dataset containing a wide range of information about tracks, artists, albums, and user interactions. My goal was to extract meaningful insights from this data and present them through interactive and informative visualizations.
 
 ### Data Sources
